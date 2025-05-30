@@ -198,19 +198,19 @@ php -S localhost:8000
 
 ## 📋 Roadmap
 
-### **v1.1 - Q3 2025**
+### **v1.1 - NEXT**
 - [ ] **Docker containers** voor eenvoudige deployment
 - [ ] **Schoolbel systeem** geïntegreerd in players
 - [ ] **Multi-media support** (afbeeldingen, video)
 - [ ] **Template systeem** voor consistente branding
 
-### **v1.2 - Q4 2025**  
+### **v1.2 - LATER**  
 - [ ] **Mobile app** for content management
 - [ ] **Bulk import** van roostersystemen (Zermelo, Magister)
 - [ ] **Analytics dashboard** voor content performance
 - [ ] **Multi-language** support (Engels, Duits)
 
-### **v2.0 - Q1 2026**
+### **v2.0 - PERHAPS**
 - [ ] **Federatie support** - Verbind meerdere scholen
 - [ ] **Advanced scheduling** met recurring events
 - [ ] **Integration APIs** voor SIS/LMS systemen
@@ -218,20 +218,7 @@ php -S localhost:8000
 
 ## 🆘 Support & Community
 
-### **📚 Documentatie**
-- **Wiki**: Uitgebreide handleidingen en tutorials
-- **FAQ**: Veelgestelde vragen en oplossingen
-- **API Docs**: Technische referentie voor developers
-
-### **💬 Community**
-- **GitHub Discussions**: Stel vragen en deel ervaringen
-- **Issues**: Rapporteer bugs of request features
-- **Email**: support@it4vo.nl voor directe hulp
-
-### **🏫 Voor Scholen**
-- **Gratis setup hulp** voor non-profit onderwijsinstellingen
-- **Training** voor beheerders en content creators
-- **Prioriteit support** via email en telefoon
+### HIER WORDT NOG AAN GEWERKT
 
 ## 📄 Licentie
 
@@ -251,7 +238,7 @@ Dit project valt onder de **Non-Profit Open Software License 3.0** (NPOSL-3.0).
 
 ## 🏢 Over IT4VO
 
-**IT4VO** is een Nederlandse stichting die **gratis IT-oplossingen** ontwikkelt voor het onderwijs. Onze missie is het toegankelijk maken van moderne technologie voor alle scholen, ongeacht budget.
+**IT4VO** is een nog op te richten Nederlandse stichting die **gratis IT-oplossingen** ontwikkelt voor het onderwijs. Onze missie is het toegankelijk maken van moderne technologie voor alle scholen, zonder hoge kosten of noodzakelijke consultants.
 
 ### **Onze Waarden**
 - **Open Source First** - Transparantie en samenwerking
@@ -260,12 +247,12 @@ Dit project valt onder de **Non-Profit Open Software License 3.0** (NPOSL-3.0).
 - **Community Driven** - Gebouwd met en voor scholen
 
 ### **Contact**
-- **Website**: [IT4VO.nl](https://IT4VO.nl)
+- **Website**: [IT4VO.nl](https://IT4VO.nl - under construction)
 - **Email**: info@it4vo.nl
 - **GitHub**: [@IT4VO-nl](https://github.com/IT4VO-nl)
 
 ---
 
-**Gemaakt met ❤️ voor het Nederlandse onderwijs**
+**Gemaakt met ❤️ voor het Nederlandse onderwijs met Claude Sonnet 4**
 
 *Geef dit project een ⭐ als het nuttig is voor jouw school!*
