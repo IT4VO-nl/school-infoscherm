@@ -1,0 +1,50 @@
+# IT4VO School Infoscherm - robots.txt
+
+User-agent: *
+
+# Allow public pages
+Allow: /
+Allow: /index.php
+Allow: /register_org.php
+
+# Block sensitive areas
+Disallow: /api/
+Disallow: /includes/
+Disallow: /data/
+Disallow: /uploads/
+Disallow: /logs/
+Disallow: /cache/
+
+# Block admin and user areas
+Disallow: /login.php
+Disallow: /dashboard.php
+Disallow: /slides.php
+Disallow: /players.php  
+Disallow: /groups.php
+Disallow: /verify.php
+Disallow: /logout.php
+
+# Block player URLs (school-specific)
+Disallow: /player.php
+
+# Block config and sensitive files
+Disallow: /db_config.php
+Disallow: /*.sql
+Disallow: /*.log
+Disallow: /debug.php
+
+# Block development files
+Disallow: /.git/
+Disallow: /.env
+Disallow: /composer.json
+Disallow: /package.json
+
+# Allow manifest and service worker for PWA
+Allow: /player-manifest.json
+Allow: /player-sw.js
+Allow: /icons/
+
+# Sitemap (optioneel - kun je later toevoegen)
+
+# Crawl delay (vriendelijk voor servers)
+Crawl-delay: 2

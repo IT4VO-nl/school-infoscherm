@@ -1,0 +1,12 @@
+# Credentials & Config
+db_config.php
+config.php
+.env*
+
+# School data
+checks/*.csv
+data/*.csv
+
+# Instance specific
+uploads/
+logos/

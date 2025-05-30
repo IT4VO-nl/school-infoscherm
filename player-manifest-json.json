@@ -1,0 +1,38 @@
+{
+  "name": "IT4VO School Infoscherm Player",
+  "short_name": "IT4VO Player",
+  "description": "Digital signage player for schools",
+  "start_url": "/school-infoscherm/player.php",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "theme_color": "#007cba",
+  "background_color": "#000000",
+  "scope": "/school-infoscherm/",
+  "lang": "nl",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "icons/icon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-192.png",  
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512", 
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/player-screenshot.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
+}
