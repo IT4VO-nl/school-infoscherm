@@ -1,0 +1,14 @@
+// config.php.example
+<?php
+return [
+    'smtp' => [
+        'host' => $_ENV['SMTP_HOST'] ?? 'localhost',
+        'username' => $_ENV['SMTP_USER'] ?? '',
+        'password' => $_ENV['SMTP_PASS'] ?? '',
+        'port' => $_ENV['SMTP_PORT'] ?? 587
+    ],
+    'app' => [
+        'base_url' => $_ENV['APP_URL'] ?? 'https://localhost',
+        'duo_csv_path' => $_ENV['DUO_CSV_PATH'] ?? 'data/schools.csv'
+    ]
+];

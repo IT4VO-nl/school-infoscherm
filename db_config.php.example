@@ -1,0 +1,9 @@
+// db_config.php.example (niet db_config.php!)
+<?php
+function getDbConnection() {
+    $host = $_ENV['DB_HOST'] ?? 'localhost';
+    $dbname = $_ENV['DB_NAME'] ?? 'school_infoscherm';
+    $username = $_ENV['DB_USER'] ?? 'root';
+    $password = $_ENV['DB_PASS'] ?? '';
+    // ...
+}
